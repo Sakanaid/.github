@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Pleased to meet you, we're Sakana the acronym from "San'nin-ka baito nakama" which means '3 bapak" pencari rejeki'. Our team member has different background and speciality in technology industry
+
+## Meet Our Members
+
 <!--
 
 **Here are some ideas to get you started:**
